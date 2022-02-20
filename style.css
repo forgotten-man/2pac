@@ -1,0 +1,22 @@
+ul{background-color: gray;overflow: hidden;margin:2px ;list-style: none;}
+h3,h4{font-size: 30px}
+li{float: left}
+li a{display: inline-block;color: black;text-align: center;text-decoration: none;padding: 14px 25px;font-size: 25px;}
+img{float:left; border: 10px solid; margin-top: 30px}
+div.div1{width:582px ;height:441px }
+div.div2{font-size:15px; width:500px;margin-left: 600px;}
+video{margin-top: 30px}
+li.login{float: right}
+img.img2{border: 10px solid black;width:570px ;height:420px;margin-top: 43px}
+div.div3{font-size:15px; width:500px;margin-left: 610px;}
+form.login{display: flex; flex-direction: column;height: 100vh;align-items: center;
+justify-content: center; margin: auto}
+h2{color: black;margin: 20px;padding-bottom: 14px; border-bottom:1px solid gray;
+    font-size: 25px; transition: 1s; font-family: normal}
+.login h2:hover{border-color: white; font-size: 30px;cursor: pointer}
+body.b2{background-color: darkgrey; direction: ltr}
+.login input[type=text],input[type=password],input[type=phone]{margin: 15px; padding: 10px 14px;border-radius: 24px;border: 1px solid black;
+width: 250px;}
+.login input[type=submit]{margin: 15px; padding: 10px 14px;border-radius: 24px;border: 1px solid black; width: 100px;
+    cursor: pointer;transition: 0.7s;}
+.login input[type=submit]:hover{background-color: #01a75b}
